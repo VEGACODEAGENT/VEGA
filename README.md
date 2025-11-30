@@ -1,2 +1,2 @@
 VEGAai
-ai and human together
+ai and human together 
